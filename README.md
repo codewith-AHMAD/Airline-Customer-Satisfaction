@@ -15,10 +15,10 @@ Airlines operate in a highly competitive market where **customer satisfaction di
 ## 📂 Repository Structure
 
 ```
-airline-satisfaction-ml/
+Airline-Customer-Satisfaction/
 │
-├── 2_ml_clean_visualize.ipynb     # Phase 1: EDA, cleaning & visualization
-├── Day_3_ML_prep_model.ipynb      # Phase 2: Preprocessing, modeling & evaluation
+├── ML_step1_Clean_analysis.ipynb    # Phase 1: EDA, cleaning & visualization
+├── Ml_step2_train.ipynb    # Phase 2: Preprocessing, modeling & evaluation
 ├── data/
 │   └── airline_clnd.csv           # Cleaned airline dataset
 └── README.md
@@ -127,10 +127,9 @@ Run **Notebook 1** first for EDA, then **Notebook 2** for modeling.
 
 ## 👤 Author
 
-**[Your Name]**  
+**Ahmed Karim**  
 Aspiring Data Scientist | ML Enthusiast  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://linkedin.com/in/ahmed-karim2002) 
 
 ---
 
